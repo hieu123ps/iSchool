@@ -102,7 +102,7 @@
 		height: 60px;
 		width: 100%;
 		position: relative;
-		z-index: 3;
+		z-index: 5;
 	}
 
 	.main-nav{
@@ -453,7 +453,7 @@
 
 	.sidernav{
 		position: fixed;
-		z-index: 3;
+		z-index: 5;
 	}
 
 	#show{

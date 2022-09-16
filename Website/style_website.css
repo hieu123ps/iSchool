@@ -452,6 +452,7 @@
 
 	.sidernav{
 		position: fixed;
+		z-index: 3;
 	}
 
 	#show{
@@ -704,7 +705,7 @@
 
 	/*footer*/
 	.footer-page{
-		margin-top: 100px;
+		margin-top: 200px;
 	}
 	.footer-top{
 		background-color: #212121;

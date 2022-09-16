@@ -60,7 +60,7 @@ var ListUser = [
           dn.action = "main.html";
           alert("Bạn đã đăng nhập thành công!");
           console.log("True");
-          return true;
+
         }
       }      
     }
@@ -68,7 +68,7 @@ var ListUser = [
     {
         console.log("False");
         f.classList.toggle("show");
-        return false;
+
     }
   }
 

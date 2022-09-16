@@ -57,7 +57,7 @@ var ListUser = [
       {
         if(acc == ListUser[i].Account && pass == ListUser[i].Password)
         {
-          dn.action = "index(a).html";
+          dn.action = "main.html";
           alert("Bạn đã đăng nhập thành công!");
           console.log("True");
           return true;
